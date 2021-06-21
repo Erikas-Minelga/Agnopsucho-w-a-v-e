@@ -12,10 +12,16 @@ Game only features one level where player has to complete 3 stages of following 
 This game was my first hand experience with Unity and 3D game development.
 
 <h2>What has been changed with this build?</h2>
-Most changes in this build are code-related. I have separated Player controller, game state management and UI management code into separate scripts to make it more modular where one script is responsible just for its own task. I have also created prefabs of paths and instantiate/destroy them via code rather than make them visible/invisible but still keeping them in the game world regardless which was not as good for the memory. UI Manager has received the same treatment.
+Most changes in this build are code-related: 
+
+-Separated Player controller, game state management and UI management code into separate scripts to make it more modular where one script is responsible just for its own task.
+
+-Created prefabs of paths and instantiated/destroyed them via code rather than make them visible/invisible but still keeping them in the game world regardless which was not as good for the memory. UI Manager has received the same treatment.
 
 I also made some cosmetic changes to the game:
+
 -Textures on the paths are no longer streched out. I have achieved this by setting texture tiling to the x and y scale of the path via code.
+
 -House model now has a visible interior. I have achieved this by having a separate model for the house with normals facing inwards
 
 To see the older build in action and compare: https://www.youtube.com/watch?v=deGr0L7rbSs
