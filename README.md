@@ -28,11 +28,12 @@ To run it from source, simply clone this repo using *git clone https://github.co
 Go to Releases tab on this repo and download Agnopsycho w a v e.zip. Extract it anywhere you'd like and run Agnopsycho w a v e.exe inside the folder
 
 <h3>Controls</h3>
-**Control** | **Action**
------------ | ----------
-W | Walk Forward
-A | Straffe Left
-S | Walk Back
-D | Straffe Right
-Mouse Move | Look Around
-Esc | Quit Game
+
+| **Control**        | **Action**           |
+| ------------- |:-------------:|
+| W      | Walk Forward |
+| A      | Straffe Left      | 
+| S | Walk Back      |
+| D | Straffe Right      |
+| Mouse Move | Look Around      |
+| Esc | Quit Game      |
