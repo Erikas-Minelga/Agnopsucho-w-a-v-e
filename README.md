@@ -30,7 +30,7 @@ To see the older build in action and compare: https://www.youtube.com/watch?v=de
 
 <h2>Running the game</h2>
 <h3>From Source</h3>
-To run it from source, simply clone this repo using *git clone https://github.com/Erikas-Minelga/Agnopsycho-w-a-v-e*, then open the folder using Unity. Version 2018.3.7f1 is recommended. In the project view, navigate to Assets/Scene/levels and load *test*. This will load the level. Hit Play on the Unity editor to play the game, or have a browse through the assets if you'd like :)
+To run it from source, simply clone this repo using git clone https://github.com/Erikas-Minelga/Agnopsycho-w-a-v-e, then open the folder using Unity. Version 2018.3.7f1 is recommended. In the project view, navigate to Assets/Scene/levels and load *test*. This will load the level. Hit Play on the Unity editor to play the game, or have a browse through the assets if you'd like :)
 
 <h3>From Executable</h3>
 Go to Releases tab on this repo and download Agnopsycho w a v e.zip. Extract it anywhere you'd like and run Agnopsycho w a v e.exe inside the folder
