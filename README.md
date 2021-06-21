@@ -11,6 +11,8 @@ Game only features one level where player has to complete 3 stages of following 
 
 This game was my first hand experience with Unity and 3D game development.
 
+**Most source code for the game can be found in Assets/Scripts/Assembly-CSharp directory**
+
 <h2>What has been changed with this build?</h2>
 Most changes in this build are code-related: 
 
